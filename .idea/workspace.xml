@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0aa1c212-ede9-43c9-b969-db459bcf778a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,9 +108,9 @@
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state width="1345" height="182" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1581912072833" />
-    <state x="184" y="42" key="SettingsEditor" timestamp="1581912052657">
+    <state x="184" y="42" key="SettingsEditor" timestamp="1581914832695">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="184" y="42" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1581912052657" />
+    <state x="184" y="42" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1581914832695" />
   </component>
 </project>
