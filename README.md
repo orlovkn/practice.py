@@ -1,6 +1,9 @@
-## Complete Python Developer in 2020: Zero to Mastery
+# 206 PDFs With Python
 
-[Link to the course](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
+## Documentation
+[Library](https://pythonhosted.org/PyPDF2/)
 
-## Instructions
-All exercises are performed in the branches
+## Install PyPDF2
+```
+pip install PyPDF2
+``` 
