@@ -1,9 +1,8 @@
-## 215 Password API
+## 215 Password Checker
 
-## API source
-[haveibeenpwned](https://haveibeenpwned.com/)
+[API source](https://haveibeenpwned.com/)
 
-## Install library
+### Install library
 ```
 pip install requests
 ``` 
