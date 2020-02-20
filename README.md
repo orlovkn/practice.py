@@ -2,5 +2,5 @@
 
 [Link to the course](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
 
-## Instructions
+### Instructions
 All exercises are performed in the branches
