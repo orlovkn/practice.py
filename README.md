@@ -1,6 +1,12 @@
-## Complete Python Developer in 2020: Zero to Mastery
+## 206 PDFs With Python
 
-[Link to the course](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
+[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[PPrint](https://docs.python.org/3/library/pprint.html)
+[Scrapy](https://scrapy.org/
+)
 
-### Instructions
-All exercises are performed in the branches
+### Install
+```
+pip install requests
+pip install beautifulsoup4
+``` 
