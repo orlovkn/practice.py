@@ -13,9 +13,11 @@ pip install Flask
 [quick start](https://flask.palletsprojects.com/en/1.1.x/quickstart/)
 
 ```
+export FLASK_APP=server.py
 flask run
 export FLASK_ENV=development
 ```
 
 ### templates
 [rendering](http://flask.palletsprojects.com/en/1.1.x/quickstart/#rendering-templates)
+[variables](https://flask.palletsprojects.com/en/1.1.x/quickstart/#variable-rules)
